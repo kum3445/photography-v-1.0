@@ -1,0 +1,54 @@
+body{
+    font-family: 'Montserrat';
+}
+footer{
+    padding: 1rem 0;
+    color:white;
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    line-height: 1.2;
+}
+img{
+    width:100%;
+    height:100%;
+}
+
+
+.navbar{
+    margin-bottom: 1.5rem;
+}
+.navbar-brand{
+    padding-left: 1.8rem;
+    font-family: 'Bangers', 'cursive';
+    font-size: 3.5rem;
+}
+.navpadding{
+    margin-top: 4.25rem;
+}
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.2rem
+}
+.nav-link{
+    margin: 0 20px;
+}
+.heading{
+    font-weight: 900;
+    font-size: 5rem;
+}
+.row{
+    margin: 1rem;
+
+}
+.col{
+    margin: 1rem 0;
+}
+
+.fi{
+    margin:1rem 1rem;
+    color:white;
+}
+
+
